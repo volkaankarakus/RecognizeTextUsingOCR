@@ -19,3 +19,6 @@ applications have been made, respectively.
 
 Project video is attached:
 https://www.youtube.com/watch?v=gtsb5vbTpdI&ab_channel=VolkanKaraku%C5%9F
+
+Output is attached :
+https://github.com/volkaankarakus/RecognizeTextUsingOCRProject/issues/1
