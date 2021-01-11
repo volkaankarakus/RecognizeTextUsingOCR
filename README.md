@@ -3,7 +3,8 @@ Optical character recognition or optical character reader (OCR) is the electroni
 
 Widely used as a form of data entry from printed paper data records – whether passport documents, invoices, bank statements, computerized receipts, business cards, mail, printouts of static-data, or any suitable documentation – it is a common method of digitizing printed texts so that they can be electronically edited, searched, stored more compactly, displayed on-line, and used in machine processes such as cognitive computing, machine translation, (extracted) text-to-speech, key data and text mining. OCR is a field of research in pattern recognition, artificial intelligence and computer vision.
 
-In this project,OCR, the project of the Image Processing course, was shown.
+In this project,OCR, the project of the Image Processing course, it is about detecting text in written texts and writing this article to a new txt file.
+
 Taking a written text;
 1. Gray Scale 
 2. Blurred
